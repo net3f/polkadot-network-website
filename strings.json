@@ -1,4 +1,13 @@
 {
+  "language_prefix": {
+    "en": "",
+    "ru": "/ru",
+    "ja": "/ja",
+    "zh-cn": "/zh-cn",
+    "ko": "/ko",
+    "es": "/es",
+    "tr": "/tr"
+  },
   "language_shorthand": {
     "en": "en",
     "ru": "ru",
@@ -264,6 +273,9 @@
     "ru": "Технологии",
     "es": "Tecnología",
     "tr": "Teknoloji"
+  },
+  "layout.ecosystem": {
+    "en": "Ecosystem"
   },
   "layout.community": {
     "en": "Community",
@@ -1763,6 +1775,15 @@
   },
   "dot.faq.4.answer.5": {
     "en": "The ability to participate in the decision-making process in relation to global upgrades and/or changes to Polkadot."
+  },
+  "eco.meta.title": {
+    "en": "Ecosystem | Polkadot"
+  },
+  "eco.1": {
+    "en": "Ecosystem"
+  },
+  "eco.1.text": {
+    "en": "A thriving, growing ecosystem built on Polkadot"
   },
   "gavin.meta.title": {
     "en": "Gavin Wood | Polkadot",

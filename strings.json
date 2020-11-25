@@ -1518,6 +1518,9 @@
     "es": "Recursos y guías",
     "tr": "kaynaklar ve rehberler"
   },
+  "community.events.host": {
+    "en": "Host a Polkadot Meetup"
+  },
   "community.events.all": {
     "en": "View All Polkadot Events",
     "es": "Vea todos los eventos de Polkadot",

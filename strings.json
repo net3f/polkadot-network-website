@@ -1237,6 +1237,12 @@
     "es": "Obtenga apoyo",
     "tr": "Destek alın"
   },
+  "community.discord.1": {
+    "en": "Discord"
+  },
+  "community.discord.2": {
+    "en": "Discuss with the community."
+  },
   "community.documentation.1": {
     "en": "Documentation",
     "ja": "ドキュメンテーション",

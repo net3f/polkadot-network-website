@@ -256,6 +256,9 @@
     "es": "Whitepaper",
     "tr": "Whitepaper"
   },
+  "layout.wiki": {
+    "en": "Wiki"
+  },
   "layout.join_testnet": {
     "en": "Join the Testnet",
     "zh-cn": "加入测试网络",

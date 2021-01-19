@@ -397,15 +397,6 @@
     "es": "Reddit",
     "tr": "Reddit"
   },
-  "layout.telegram": {
-    "en": "Telegram",
-    "zh-cn": "电报",
-    "ja": "Telegram",
-    "ko": "Telegram",
-    "ru": "Telegram",
-    "es": "Telegram",
-    "tr": "Telegram"
-  },
   "layout.careers": {
     "en": "Careers",
     "zh-cn": "职位空缺",
@@ -696,12 +687,12 @@
     "tr": "Genl chat"
   },
   "about.get_in_touch.general.text": {
-    "en": "Join the {{watercooler_link}} or {{telegram_link}}",
+    "en": "Join the {{watercooler_link}} or {{discord_link}}",
     "zh-cn": "加入{{watercooler_link}}或电报群",
-    "ja": "{{watercooler_link}}か{{telegram_link}}に参加",
-    "ru": "Присоединяйтесь к {{watercooler_link}} или {{telegram_link}}",
-    "es": "Únase al {{watercooler_link}} o al {{telegram_link}}",
-    "tr": "{{watercooler_link}} veya {{telegram_link}}'a katılın"
+    "ja": "{{watercooler_link}}か{{discord_link}}に参加",
+    "ru": "Присоединяйтесь к {{watercooler_link}} или {{discord_link}}",
+    "es": "Únase al {{watercooler_link}} o al {{discord_link}}",
+    "tr": "{{watercooler_link}} veya {{discord_link}}'a katılın"
   },
   "about.get_in_touch.general.text.watercooler_link": {
     "en": "Watercooler",
@@ -711,13 +702,13 @@
     "es": "Watercooler",
     "tr": "Watercooler"
   },
-  "about.get_in_touch.general.text.telegram_link": {
-    "en": "Telegram",
-    "zh-cn": "Telegram",
-    "ja": "Telegram",
-    "ru": "Telegram",
-    "es": "Telegram",
-    "tr": "Telegram"
+  "about.get_in_touch.general.text.discord_link": {
+    "en": "Discord",
+    "zh-cn": "Discord",
+    "ja": "Discord",
+    "ru": "Discord",
+    "es": "Discord",
+    "tr": "Discord"
   },
   "about.get_in_touch.press_inquiries.heading": {
     "en": "For press inquiries",
@@ -1197,19 +1188,6 @@
     "es": "Haga sus preguntas",
     "tr": "Sorular sorun"
   },
-  "community.telegram.1": {
-    "en": "Telegram",
-    "zh-cn": "加入电报社区。",
-    "ja": "コミュニティーに参加する",
-    "ru": "Присоединиться к сообществу",
-    "es": "Comunidad de Telegram",
-    "tr": "Telegram"
-  },
-  "community.telegram.2": {
-    "en": "Join the community.",
-    "es": "Únase a la comunidad.",
-    "tr": "Topluluğa katılın"
-  },
   "community.github.1": {
     "en": "GitHub",
     "zh-cn": "贡献代码库。",
@@ -1575,16 +1553,16 @@
     "tr": "Genel chat"
   },
   "contact.general.text": {
-    "en": "Join the {{watercooler_link}} or {{telegram_link}}",
-    "tr": "{{watercooler_link}} veya {{telegram_link}} katılın"
+    "en": "Join the {{watercooler_link}} or {{discord_link}}",
+    "tr": "{{watercooler_link}} veya {{discord_link}} katılın"
   },
   "contact.general.text.watercooler_link": {
     "en": "Watercooler",
     "tr": "Watercooler"
   },
-  "contact.general.text.telegram_link": {
-    "en": "Telegram",
-    "tr": "Telegram"
+  "contact.general.text.discord_link": {
+    "en": "Discord",
+    "tr": "Discord"
   },
   "contact.press": {
     "en": "For press inquiries",

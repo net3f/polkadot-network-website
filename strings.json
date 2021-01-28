@@ -4103,10 +4103,13 @@
     "tr": "POC-4 Nisan 2019'da yayınlandığında Polkadot üzerindeki bir doğrulayıcının daha güvenli ve özelleştirilerek çalışmasına olanak sağlayan yeni stake özellikleri sağladı."
   },
   "faq.37": {
-    "en": "See the <a href=\"https://github.com/paritytech/polkadot\" target=\"_blank\">codebase</a> for the latest state of the platform and visit the Polkadot <a href=\"https://poc-3.polkadot.io/\" target=\"_blank\">testnet user interface</a> to get started using Polkadot today.",
-    "zh-cn": "关注平台最新的代码库，访问Polkadot的测试网界面，今天就开始使用Polkadot。",
-    "es": "Vea el <a href=\"https://github.com/paritytech/polkadot\" target=\"_blank\">código fuente</a> para conocer el estado actual de la plataforma y visite la <a href=\"https://poc-3.polkadot.io/\" target=\"_blank\">interfaz de usuario para la testnet</a> de Polkadot para empezar a usar Polkadot hoy.",
-    "tr": "Platformun güncel durumu için <a href=\"https://github.com/paritytech/polkadot\" target=\"_blank\">codebase</a>'i ziyaret edebilirsiniz ayrıca Polkadot'u <a href=\"https://poc-3.polkadot.io/\" target=\"_blank\">testnet kullanıcı arayüzü</a> üzerinden bugün kullanmaya başlayabilirsiniz."
+    "en": "Kusama, an early an unaudited release of Polkadot, was launched in August 2019."
+  },
+  "faq.37.2": {
+    "en": "Polkadot was launched in May 2020, and additional features have been added in over time, including <a href=\"https://wiki.polkadot.network/docs/en/learn-staking\" target=\"_blank\">staking</a>, <a href=\"https://wiki.polkadot.network/docs/en/learn-governance\" target=\"_blank\">on-chain governance</a>, and <a href=\"https://wiki.polkadot.network/docs/en/learn-identity\" target=\"_blank\">on-chain identity</a>."
+  },
+  "faq.37.3": {
+    "en": "See the Polkadot <a href=\"https://wiki.polkadot.network/docs/en/learn-launch\" target=\"_blank\">Launch Status page</a> for the latest information on Polkadot development, explore the <a href=\"https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.polkadot.io#/explorer\" target=\"_blank\">network</a>, or view the <a href=\"https://github.com/paritytech/polkadot\" target=\"_blank\">codebase</a hre>."
   },
   "faq.38": {
     "en": "How do I get testnet DOT?",

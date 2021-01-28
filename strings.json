@@ -4392,6 +4392,21 @@
     "es": "Como la venta de tokens es una práctica incipiente, el tratamiento de los DOT por parte de las autoridades reguladoras y gubernamentales es incierto y puede variar de una jurisdicción a otra. El tratamiento jurídico y reglamentario de los DOT puede tender a cambiar en el futuro, lo que puede tener un impacto materialmente adverso en la situación jurídica de los DOT, el valor económico (en su caso) de los DOT y la liquidez de los DOT, así como en el desarrollo, la función o la gobernanza de Polkadot y/o de la propia Fundación Web3.",
     "tr": "Token satışı henüz yeni bir uygulama olduğu için, hükümet otorilerinin DOT'a yaklaşımı belirsiz olmakla birlikte yargı sistemleri arasında farklılıklar gösterebilir. DOTlara olan yasal ve düzenleyici yaklaşımlar gelecekte değişebilir. Dolayısı ile DOT'un yasal statüsü, DOT'un (var ise) ekonomik değeri ve likiditesi ayrıca Polkadot'un ve/veya Web3 Vakfı'nın gelişimi, yönetişimi ve işleyişi olumsuz yönde etkilenebilir."
   },
+  "faq.86": {
+    "en": "When did Polkadot launch?"
+  },
+  "faq.87": {
+    "en": "The Genesis block of the Polkadot network was launched on May 26, 2020, as a Proof of Authority (PoA) network, with governance controlled by the single Sudo (super-user) account. During this time, validators started joining the network and signaling their intention to participate in consensus."
+  },
+  "faq.88": {
+    "en": "The network evolved to become a Proof of Stake (PoS) network on June 18, 2020. With the chain secured by the decentralized community of validators, the Sudo module was removed on July 20, 2020, transitioning the governance of the chain into the hands of the token (DOT) holders. This is the point where Polkadot became decentralized."
+  },
+  "faq.89": {
+    "en": "The final step of the transition to full-functioning Polkadot was the enabling of transfer functionality, which occurred on Polkadot at block number 1,205,128 on August 18, 2020, at 16:39 UTC."
+  },
+  "faq.90": {
+    "en": "On August 21, 2020, Redenomination of DOT occurred. From this date, one DOT (old) equals 100 new DOT."
+  },
   "faq.web3": {
     "en": "Web3 foundation",
     "zh-cn": "Web3基金会",

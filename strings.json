@@ -277,6 +277,9 @@
     "es": "Tecnología",
     "tr": "Teknoloji"
   },
+  "layout.roadmap": {
+    "en": "Roadmap"
+  },
   "layout.community": {
     "en": "Community",
     "zh-cn": "社区",
@@ -1838,7 +1841,7 @@
     "en": "Polkadot development is on track to deliver the most robust platform for security, scalability and innovation."
   },
   "home.hero.cta": {
-    "en": "See Roadmap"
+    "en": "See Launch Roadmap"
   },
   "home.1": {
     "en": "Polkadot is a sharded protocol that enables blockchain networks to operate together seamlessly",
@@ -3650,12 +3653,10 @@
     "tr": "Yol Haritası"
   },
   "tech.13.text": {
-    "en": "Polkadot development is on track to deliver the most robust platform for security, scalability, interoperability, and innovation. Polkadot will launch the genesis block in mid-2020 with one relay chain and several parachains. Then the network will ramp up to about 100 parachains.",
-    "zh-cn": "Polkadot开发的愿景是为互操作性，安全性，可扩展性和创新提供最强大的平台。 Polkadot的目标是在2019年底之前发布一条中继链和几条平行链以启动创世块。此后，网络将增加到大约100条平行链。",
-    "ja": "Polkadotの開発は、インターオペラビリティ、セキュリティ、スケーラビリティ、そしてイノベイションのための最も堅牢なプラットフォームを提供するための軌道に乗っています。Polkadotは2019年の終わりに1つのリレーチェーンと複数のパラチェーンと共にジェネシスブロックをローンチすることを目指しています。その後にネットワークは約100のパラチェーンが段階的につながっていきます。",
-    "ru": "Самая надежная платформа для взаимодействия, безопасности, масштабируемости и инноваций. Polkadot v1 выйдет в конце 2019 года. V1 будет одной связующей цепью (relay chain), поддерживающей до 100 парачейнов. В 2020 году Polkadot v2 вырастет до нескольких ретрансляционных цепочек, в которых будет размещено ~ 100 парачейнов",
-    "es": "El desarrollo de Polkadot va por buen camino para ofrecer la plataforma más robusta de interoperabilidad, seguridad, escalabilidad e innovación. Polkadot tiene como objetivo lanzar el bloque génesis a finales de 2019 con una relay chain y varios parachains. A partir de entonces, la red se ampliará a unos 100 parachains.",
-    "tr": "Birlikte çalışabilirlik, güvenlik, ölçeklenebilirlik ve inovasyon için en sağlam platformu oluştumak üzere Polkadot geliştirmeleri devam etmektedir. Polkadot başlangıç bloğunun 2019 sonunda bir relay chain (röle zincir) ve bir kaç parachain ile birlikte yayınlanmasını hedeflemektedir. Sonrasında ağ 100 adet parachain'e yükselecektir."
+    "en": "Polkadot is rolling out the most robust platform for security, scalability and innovation. Having launched the genesis block of its Relay Chain in May 2020, Polkadot is now on track to launch several parachains in 2021."
+  },
+  "tech.13.text.cta": {
+    "en": "See Launch Roadmap"
   },
   "tech.13.1.1": {
     "en": "2018, June",

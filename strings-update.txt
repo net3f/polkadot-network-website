@@ -1,5 +1,3 @@
-### Strings to update
-
 layout.build
 layout.brand
 layout.cookie

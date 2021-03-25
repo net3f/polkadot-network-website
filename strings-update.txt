@@ -42,6 +42,7 @@ faq.39
 
 global.support
 global.question_building_link
+global.ask_question
 
 community.events.host
 

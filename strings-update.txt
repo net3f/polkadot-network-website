@@ -31,8 +31,6 @@ dot.1.4.text
 dot.2.text.1
 dot.faq.6.answer
 
-faq.disclaimer.2
-
 brand.*
 
 about.builders.subheading

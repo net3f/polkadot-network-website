@@ -45,6 +45,7 @@ global.question_building_link
 global.ask_question
 
 community.events.host
+community.chat.heading
 
 community.discord.1
 community.discord.2

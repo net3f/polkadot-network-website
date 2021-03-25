@@ -1509,12 +1509,7 @@
     "tr": "Tüm Polkadot Etkinlikleri Görüntüleyin"
   },
   "community.chat.heading": {
-    "en": "Get testnet DOT and get your questions answered",
-    "zh-cn": "获取测试网上的DOT并咨询您的问题，加入Polkadot聊天或学习如何构建Polkadot。",
-    "ja": "テストネットのDOTを取得したり、質問するにはPolkadot",
-    "ru": "Получите testnet DOT-ы и ответы на свои вопросы.",
-    "es": "Obtenga DOT de la testnet y reciba las respuestas a sus preguntas",
-    "tr": "Testnet DOT'larını alın ve aklınızdaki soruların cevaplarını bulun"
+    "en": "Get your questions answered"
   },
   "community.chat.text.join_link": {
     "en": "Join the Polkadot Chat",

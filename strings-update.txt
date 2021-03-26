@@ -31,8 +31,6 @@ dot.1.4.text
 dot.2.text.1
 dot.faq.6.answer
 
-faq.disclaimer.2
-
 brand.*
 
 about.builders.subheading
@@ -44,8 +42,10 @@ faq.39
 
 global.support
 global.question_building_link
+global.ask_question
 
 community.events.host
+community.chat.heading
 
 community.discord.1
 community.discord.2

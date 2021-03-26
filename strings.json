@@ -87,12 +87,7 @@
     "en": "Visit Polkadot Support"
   },
   "global.ask_question": {
-    "en": "Ask in the Polkadot Chat",
-    "zh-cn": "有关建立在Polkadot上的问题?",
-    "ja": "Polkadotチャットで聞きましょう。",
-    "ru": "Спросите в чате Polkadot",
-    "es": "Pregunte en el chat de Polkadot",
-    "tr": "Polkadot Chat'te Soru Sor"
+    "en": "Let's Connect"
   },
   "global.subscribe_newsletter_footer": {
     "en": "Subscribe to the newsletter to hear about Polkadot updates and events.",
@@ -1514,12 +1509,7 @@
     "tr": "Tüm Polkadot Etkinlikleri Görüntüleyin"
   },
   "community.chat.heading": {
-    "en": "Get testnet DOT and get your questions answered",
-    "zh-cn": "获取测试网上的DOT并咨询您的问题，加入Polkadot聊天或学习如何构建Polkadot。",
-    "ja": "テストネットのDOTを取得したり、質問するにはPolkadot",
-    "ru": "Получите testnet DOT-ы и ответы на свои вопросы.",
-    "es": "Obtenga DOT de la testnet y reciba las respuestas a sus preguntas",
-    "tr": "Testnet DOT'larını alın ve aklınızdaki soruların cevaplarını bulun"
+    "en": "Get your questions answered"
   },
   "community.chat.text.join_link": {
     "en": "Join the Polkadot Chat",
@@ -3870,12 +3860,6 @@
     "zh-cn": "Polkadot是一个尚在开发中的项目。下面的常见问题将随着Polkadot的 平台的进化不断更新。主网上线时使用的最终的结构和技术还有待确 认，在持续研发中可能会有改动。",
     "es": "Polkadot es un proyecto en curso. Las siguientes preguntas frecuentes se irán actualizando a medida que evolucione la plataforma Polkadot. Las estructuras y tecnologías exactas que se incluirán en el génesis no están finalizadas y pueden cambiar con la investigación continua.",
     "tr": "Polkadot devam etmekte olan bir çalışmadır. Polkadot platformu geliştikçe aşağıdaki SSS güncellenmeye devam edecektir. Dahil edilecek nihai yapılar ve teknolojiler son halini almamıştır ve devam eden araştırmalarla değişikliğe açıklardır."
-  },
-  "faq.disclaimer.2": {
-    "en": "Warning: DOT tokens are not transferrable until mainnet launch, expected mid-2020. Therefore any transfers of DOT are illegitimate and unauthorized. DOT can not be moved from a current allocation address. Individuals with an allocation of DOT who transfer their DOT address to someone else can always keep a copy of their private key, therefore there is extreme risk for individuals participating in transfers of DOT before mainnet launch.",
-    "zh-cn": "警告：DOT代币在预期于2019年底的主网上线之前无法转账。 因此任何DOT的转让都是未授权而非法的。DOT无法从现有的地址转移。 现在被分配到额度的个体即使在转让了拥有DOT的地址之后仍然拥有私钥， 因此在主网上线前参与DOT的转让存在极大的风险。",
-    "es": "Advertencia: Los tokens DOT no son transferibles hasta el lanzamiento de la mainnet, prevista para finales de 2019. Por lo tanto, cualquier transferencia de DOT es ilegítima y no autorizada. Los DOT no pueden ser movidos de una dirección de asignación actual. Las personas con una asignación de DOT que transfieren su dirección DOT a otra persona siempre pueden conservar una copia de su clave privada, por lo que existe un riesgo extremo para las personas que participan en transferencias de DOT antes de la puesta en marcha de la mainnet.",
-    "tr": "Uyarı: DOT token'leri 2019'un sonunda beklenen ana ağ yayınlanana kadar transfer edilemez. Dolayısı ile herhangi bir DOT transferi yasadışı ve yetkilendirilmemiş olur. DOT hissesine sahip kişiler DOT adreslerini başkası ile paylaşatıklarında kişisel adreslerinin bir kopyasını kendilerinde bulundurabilirler, dolayısı ile ana ağın yayına geçişinden önce DOT transferine taraf olan kişiler için yüksek risk bulunmaktadır."
   },
   "faq.1": {
     "en": "Technology",

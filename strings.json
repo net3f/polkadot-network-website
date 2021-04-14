@@ -806,7 +806,7 @@
     "tr": "Polkadot üzerinde geliştirin"
   },
   "build.subheading": {
-    "en": "Polkadot is 100% open-source. Anyone can contribute to the {{codebase_link}}, run a node,<br class=\"d-none d-md-block\"> or build services on Polkadot. You can even {{grant_link}}.",
+    "en": "Polkadot is 100% open-source. Anyone can contribute to the {{codebase_link}}, run a node,<br class=\"d-none d-md-block\"> or {{build_services}} on Polkadot. You can even {{grant_link}}.",
     "zh-cn": "Polkadot是100％开源。任何人也能够贡献代码到我 们的代码库，运行节点，或在Polkadot上建立服务。你甚至可以获得资助。",
     "ja": "Polkadotは100％オープンソースです。誰もがノードを実行して、コードベースに貢献することができます。またはPolkadot上でサービスを構築することや、助成金を得ることですらできます。",
     "ru": "Polkadot на 100% с открытым исходным кодом. Любой может внести свой вклад в кодовую базу, запустить узел, или строить сервисы на Polkadot. Вы даже можете получить грант.",

@@ -1141,13 +1141,13 @@
     "tr": "Twitter"
   },
   "community.twitter.2": {
-    "en": "Follow @polkadotnetwork.",
-    "zh-cn": "关注推特@polkadotnetwork。",
-    "ja": "@polkadotnetworkをフォローする",
-    "ko": "推特跟随 @polkadotnetwork",
-    "ru": "@polkadotnetwork",
-    "es": "Seguir @polkadotnetwork",
-    "tr": "Takip edin @polkadotnetwork"
+    "en": "Follow @Polkadot.",
+    "zh-cn": "关注推特@Polkadot。",
+    "ja": "@Polkadotをフォローする",
+    "ko": "推特跟随 @Polkadot",
+    "ru": "@Polkadot",
+    "es": "Seguir @Polkadot",
+    "tr": "Takip edin @Polkadot"
   },
   "community.mail.1": {
     "en": "Mailing list",
